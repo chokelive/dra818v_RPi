@@ -10,11 +10,11 @@ Circuit module work by 3.3V power and control by serial interface at GPIO pin he
 
 ## Circuit diagram
 
-![alt text](https://raw.githubusercontent.com/chokelive/dra818v_RPi/master/circuit/circuit.JPG)
+![alt text](https://raw.githubusercontent.com/chokelive/dra818v_RPi/master/circuit/circuit.jpg)
 
 ## My Example Implementation
 
-![alt text](https://raw.githubusercontent.com/chokelive/dra818v_RPi/master/circuit/imlement.JPG)
+![alt text](https://raw.githubusercontent.com/chokelive/dra818v_RPi/master/circuit/imlement.jpg)
 
 ## Reference
 
